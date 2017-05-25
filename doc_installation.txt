@@ -1,0 +1,6 @@
+Bonjour 
+*extraire le projet dans le sous dossier wamp/www
+*importer la base de donnés
+*il faut surtout activer le mode rewerite_module dans appache modctules (vous pouvez me contater en cas de problémes)
+*il faut mettre aussi votre login et password de phpmyadmin dans le config du projet (le fichier config_dev dans sous dossier config de projet ligne 16 )
+*pour commencer l'application il faut se connecter avec ce lien "http://localhost/pardesTchat/admin/login" avec login ="Marwa " et mot de passe ="123456"
